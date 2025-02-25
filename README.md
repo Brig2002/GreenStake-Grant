@@ -1,10 +1,8 @@
 <<<<<<< HEAD
-=======
-# Eco-Stake
 >>>>>>> 417040adca85dbdb51bfa79229e362761432833a
-# GreenStake - Decentralized Project Funding Platform
+# Eco Stake - Decentralized Project Funding Platform
 
-GreenStake is a decentralized platform that enables transparent and community-driven project funding through a DAO (Decentralized Autonomous Organization) governance model. Built on the Arbitrum Sepolia network, it allows project creators to list their initiatives and receive donations while ensuring proper oversight through DAO member voting.
+Eco Stake is a decentralized platform that enables transparent and community-driven project funding through a DAO (Decentralized Autonomous Organization) governance model. Built on the Arbitrum Sepolia network, it allows project creators to list their initiatives and receive donations while ensuring proper oversight through DAO member voting.
 
 ## Features
 
@@ -61,14 +59,14 @@ GreenStake is a decentralized platform that enables transparent and community-dr
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/GreenStake.git
-cd GreenStake
+git clone https://github.com/yourusername/Eco-Stake.git
+cd Eco-Stake
 ```
 
 2. Install dependencies
 ```bash
 # Install contract dependencies
-cd GreenStake-Contract
+cd Eco-Stake-Contract
 npm install
 
 # Install frontend dependencies
@@ -78,14 +76,14 @@ npm install
 
 3. Set up environment variables
 ```bash
-# In GreenStake-Contract/.env
+# In Eco-Stake-Contract/.env
 PRIVATE_KEY=your_private_key
 ARBITRUM_SEPOLIA_RPC_URL=your_rpc_url
 ```
 
 4. Deploy contracts
 ```bash
-cd GreenStake-Contract
+cd Eco-Stake-Contract
 npx hardhat run scripts/deploy.js --network arbitrumSepolia
 ```
 
