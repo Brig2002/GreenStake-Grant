@@ -1,8 +1,8 @@
-# GreenStake: Empowering Sustainable Projects Through Decentralized Funding
+# Eco Stake: Empowering Sustainable Projects Through Decentralized Funding
 
 ## Project Overview
 
-GreenStake is an innovative decentralized platform designed to bridge the gap between sustainable project creators and potential donors through a transparent, community-driven governance model. By leveraging blockchain technology and DAO (Decentralized Autonomous Organization) principles, GreenStake creates a trustless environment where projects can receive funding while ensuring proper oversight and fair distribution of resources.
+Eco Stake is an innovative decentralized platform designed to bridge the gap between sustainable project creators and potential donors through a transparent, community-driven governance model. By leveraging blockchain technology and DAO (Decentralized Autonomous Organization) principles, Eco Stake creates a trustless environment where projects can receive funding while ensuring proper oversight and fair distribution of resources.
 
 ## Problem Statement
 
@@ -15,7 +15,7 @@ Traditional project funding faces several challenges:
 
 ## Solution
 
-GreenStake addresses these challenges through:
+Eco Stake addresses these challenges through:
 
 ### 1. Transparent Fund Distribution
 - Clear allocation: 80% to projects, 15% to DAO members, 5% platform fee
@@ -147,4 +147,4 @@ GreenStake addresses these challenges through:
 
 ## Conclusion
 
-GreenStake represents a new paradigm in project funding, combining the best of blockchain technology with environmental and social impact. Through its innovative DAO structure and transparent operations, it creates a sustainable ecosystem that benefits all participants while promoting positive change in the world.
+Eco Stake represents a new paradigm in project funding, combining the best of blockchain technology with environmental and social impact. Through its innovative DAO structure and transparent operations, it creates a sustainable ecosystem that benefits all participants while promoting positive change in the world.
