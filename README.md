@@ -60,13 +60,13 @@ Eco Stake is a decentralized platform that enables transparent and community-dri
 1. Clone the repository
 ```bash
 git clone https://github.com/yourusername/Eco-Stake.git
-cd Eco-Stake
+cd Apetorku
 ```
 
 2. Install dependencies
 ```bash
 # Install contract dependencies
-cd Eco-Stake-Contract
+cd GreenStake-Contract
 npm install
 
 # Install frontend dependencies
@@ -83,7 +83,7 @@ ARBITRUM_SEPOLIA_RPC_URL=your_rpc_url
 
 4. Deploy contracts
 ```bash
-cd Eco-Stake-Contract
+cd GreenStake-Contract
 npx hardhat run scripts/deploy.js --network arbitrumSepolia
 ```
 
