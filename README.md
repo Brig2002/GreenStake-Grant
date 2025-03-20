@@ -1,8 +1,7 @@
-<<<<<<< HEAD
->>>>>>> 417040adca85dbdb51bfa79229e362761432833a
-# Eco Stake - Decentralized Project Funding Platform
 
-Eco Stake is a decentralized platform that enables transparent and community-driven project funding through a DAO (Decentralized Autonomous Organization) governance model. Built on the Arbitrum Sepolia network, it allows project creators to list their initiatives and receive donations while ensuring proper oversight through DAO member voting.
+# GreenStake - Decentralized Project Funding Platform
+
+GreenStake is a decentralized platform that enables transparent and community-driven project funding through a DAO (Decentralized Autonomous Organization) governance model. Built on the Arbitrum Sepolia network, it allows project creators to list their initiatives and receive donations while ensuring proper oversight through DAO member voting.
 
 ## Features
 
