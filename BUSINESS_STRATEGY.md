@@ -1,8 +1,8 @@
-# Eco Stake: Donor Acquisition and Retention Strategy
+# GreenStake: Donor Acquisition and Retention Strategy
 
 ## Executive Summary
 
-Eco Stake aims to become the leading decentralized funding platform for sustainable projects by implementing a comprehensive donor acquisition and retention strategy. Our goal is to attract and maintain a diverse donor base while ensuring maximum impact for funded projects.
+GreenStake aims to become the leading decentralized funding platform for sustainable projects by implementing a comprehensive donor acquisition and retention strategy. Our goal is to attract and maintain a diverse donor base while ensuring maximum impact for funded projects.
 
 ## Target Donor Segments
 

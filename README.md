@@ -58,7 +58,7 @@ GreenStake is a decentralized platform that enables transparent and community-dr
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/Eco-Stake.git
+git clone https://github.com/Brig2002/GreenStake-Grant.git
 cd Apetorku
 ```
 
@@ -75,7 +75,7 @@ npm install
 
 3. Set up environment variables
 ```bash
-# In Eco-Stake-Contract/.env
+# In GreenStake-Contract/.env
 PRIVATE_KEY=your_private_key
 ARBITRUM_SEPOLIA_RPC_URL=your_rpc_url
 ```
